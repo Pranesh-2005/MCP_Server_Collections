@@ -1,0 +1,6 @@
+.env
+__pycache__
+*.pyc
+__pycache__/
+gitmcpcheck
+gitmcpcheck/
